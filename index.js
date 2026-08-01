@@ -29,7 +29,7 @@ function getWelcomeMessage() {
     return {
         type: 'photo',
         media: 'https://i.postimg.cc/kGJqPtRp/img2.jpg',
-        caption: `🙈 **MASSIEL😈**
+        caption: `🙈 **EVELIN😈**
 
 🔥 **𝗦𝗨𝗦𝗖𝗥𝗜𝗕𝗘𝗧𝗘😉🔥**
 
